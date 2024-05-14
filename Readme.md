@@ -53,3 +53,5 @@ To test the project, run the following command:
 ```bash
 truffle test
 ```
+
+*************The testing is currently not working due to babel library issues. Please do not test it lol.
